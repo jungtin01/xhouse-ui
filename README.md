@@ -1,29 +1,7 @@
-# xrentalhouse
+# Recruitment Hub
 
-## Project setup
-```
-npm install
-```
+Mini project được làm trong môn SWD - Software Architecture & Design
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Miêu tả
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> Không biết đây là gì nữa, vì không sinh viên nào config được nó nên là đã đổi qua 1 đề tài khác :))
